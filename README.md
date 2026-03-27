@@ -2,13 +2,15 @@
 
 A 5-agent system for running projects with AI coding tools. Works with Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Codex, Devin, and Replit. Each agent has a soul, an identity, and clear boundaries. Drop this into any project and start shipping.
 
-![5 agents running in parallel]
-<img width="1178" height="815" alt="Screenshot 2026-03-28 at 12 00 03 AM" src="https://github.com/user-attachments/assets/46b776b9-7b63-4af4-b935-8a85af0526da" />
+## 5 agents. 5 terminals. 1 shared context. Zero standups.
 
+<img width="1178" alt="5 agents running in parallel — CEO, Product, Marketing, Engineer, and Tester each in their own Claude Code terminal" src="https://github.com/user-attachments/assets/46b776b9-7b63-4af4-b935-8a85af0526da" />
 
-## The Setup
+> Each agent reads its own SOUL.md at startup. The CEO sets direction. Product owns the roadmap. Marketing writes content. Engineering builds. The Tester breaks things. They coordinate through shared files, not meetings.
 
-5 agents. 5 terminals. 1 shared context. Zero standups.
+---
+
+## Project Structure
 
 ```
 ai-native-agents/
@@ -52,7 +54,6 @@ cp -r ai-native-agents/.claude/agents your-project/.claude/agents
 cp ai-native-agents/CLAUDE.md your-project/CLAUDE.md
 
 # Open 5 terminals, one per agent
-# In each terminal:
 cd your-project
 
 # Terminal 1: CEO
