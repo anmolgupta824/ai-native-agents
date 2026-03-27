@@ -4,7 +4,7 @@ A 5-agent system for running projects with AI coding tools. Works with Claude Co
 
 ## 5 agents. 5 terminals. 1 shared context. Zero standups.
 
-<img width="1178" alt="5 agents running in parallel — CEO, Product, Marketing, Engineer, and Tester each in their own Claude Code terminal" src="https://github.com/user-attachments/assets/46b776b9-7b63-4af4-b935-8a85af0526da" />
+<img width="1178" alt="5 agents running in parallel — CEO, Product, Marketing, Engineer, and Tester each in their own Claude Code terminal" src="screenshot.png" />
 
 > Each agent reads its own SOUL.md at startup. The CEO sets direction. Product owns the roadmap. Marketing writes content. Engineering builds. The Tester breaks things. They coordinate through shared files, not meetings.
 
