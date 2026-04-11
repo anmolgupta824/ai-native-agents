@@ -1,5 +1,7 @@
 # AI-Native Agents
 
+[![GitHub stars](https://img.shields.io/github/stars/anmolgupta824/ai-native-agents?style=social)](https://github.com/anmolgupta824/ai-native-agents/stargazers)
+
 A 5-agent system for running projects with AI coding tools. Works with Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Codex, Devin, and Replit. Each agent has a soul, an identity, and clear boundaries. Drop this into any project and start shipping.
 
 ## 5 agents. 5 terminals. 1 shared context. Zero standups.
@@ -197,7 +199,7 @@ I teach this setup in my free Claude Code course: [theainativepm.com/modules](ht
 
 ---
 
-If this helped you ship faster, give it a star — it helps other devs find this system.
+⭐ **[Star this repo](https://github.com/anmolgupta824/ai-native-agents/stargazers)** if it helped you ship faster — it helps other devs find this system.
 
 ## License
 
