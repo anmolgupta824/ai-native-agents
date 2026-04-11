@@ -1,8 +1,26 @@
-# AI-Native Agents
+<p align="center">
+  <h1 align="center">AI-Native Agents</h1>
+  <p align="center">
+    A 5-agent system for running projects with AI coding tools. Works with Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Codex, Devin, and Replit. Each agent has a soul, an identity, and clear boundaries. Drop this into any project and start shipping.
+  </p>
+</p>
 
-[![GitHub stars](https://img.shields.io/github/stars/anmolgupta824/ai-native-agents?style=social)](https://github.com/anmolgupta824/ai-native-agents/stargazers)
+<p align="center">
+  <a href="https://github.com/anmolgupta824/ai-native-agents/stargazers"><img src="https://img.shields.io/github/stars/anmolgupta824/ai-native-agents?style=for-the-badge&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/anmolgupta824/ai-native-agents/network/members"><img src="https://img.shields.io/github/forks/anmolgupta824/ai-native-agents?style=for-the-badge" alt="Forks"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/anmolgupta824/ai-native-agents/issues"><img src="https://img.shields.io/github/issues/anmolgupta824/ai-native-agents?style=for-the-badge" alt="Issues"></a>
+</p>
 
-A 5-agent system for running projects with AI coding tools. Works with Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Codex, Devin, and Replit. Each agent has a soul, an identity, and clear boundaries. Drop this into any project and start shipping.
+<p align="center">
+  <b>5 agents. 5 terminals. 1 shared context. Zero standups.</b>
+  <br/>
+  <i>Works with Claude Code, Cursor, Copilot, Windsurf, Gemini CLI, Codex, Devin, and Replit</i>
+  <br/><br/>
+  <a href="https://github.com/anmolgupta824/ai-native-agents/stargazers"><img src="https://img.shields.io/badge/Like%20this%3F-Give%20it%20a%20%E2%AD%90-yellow?style=for-the-badge" alt="Star this repo"></a>
+</p>
+
+---
 
 ## 5 agents. 5 terminals. 1 shared context. Zero standups.
 
